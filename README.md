@@ -2,5 +2,5 @@
 ---
 ```
 $ npm install
-$ node dcard/dcard.js
+$ npm start
 ```
